@@ -23,6 +23,12 @@ function routerFn(req, res) {
     );
 }
 
+/* GET home page. */
+router.get('/', function(req, res, next) {
+    res.render('index', { title: 'BGG Json Api' });
+});
+
+
 router.get('/thing', routerFn);
 router.get('/family', routerFn);
 router.get('/forumlist', routerFn);
