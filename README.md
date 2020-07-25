@@ -1,4 +1,4 @@
-bgg-json
+bgg-json-api
 ========
 
 This is a sample wrapper for the [BoardGameGeek JSON API](http://boardgamegeek.com/wiki/page/BGG_XML_API2). It is developed in Javascript using NODEJS with EXPRESS to reexpose selected BGG API endpoints as JSON endpoints.
@@ -12,7 +12,7 @@ License
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Erv Walter
+Copyright (c) 2020 Capanna Patricio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
