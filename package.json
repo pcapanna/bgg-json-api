@@ -1,6 +1,6 @@
 {
   "name": "bggjsonapi",
-  "version": "0.2.0-rc",
+  "version": "0.2.1",
   "private": true,
   "scripts": {
     "start": "npm ./bin/www"
@@ -13,7 +13,9 @@
     "http-errors": "~1.6.3",
     "http-status-codes": "^1.4.0",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.4",
-    "pug": "2.0.0-beta11"
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.720.0"
   }
 }
