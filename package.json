@@ -1,6 +1,6 @@
 {
   "name": "bgg-json-api",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -16,5 +16,6 @@
     "nodemon": "^2.0.4"
   },
   "devDependencies": {
-    "aws-sdk": "^2.720.0"}
+    "aws-sdk": "^2.720.0"
+  }
 }
