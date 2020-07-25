@@ -1,6 +1,6 @@
 {
   "name": "bgg-json-api",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www"
