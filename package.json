@@ -1,9 +1,9 @@
 {
-  "name": "bggjsonapi",
-  "version": "0.2.3",
+  "name": "bgg-json-api",
+  "version": "0.2.5",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "bgg": "^1.0.1",
