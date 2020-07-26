@@ -5,7 +5,7 @@ This is a sample wrapper for the [BoardGameGeek JSON API](http://boardgamegeek.c
 
 Note, this code is not intended to be comprehensive and lacks things that a production solution would need (e.g. throttling and caching).
 
-This sample code is running live at [bgg-json-api.capi2.com.ar](http://bgg-json-api.capi2.com.ar/). 
+This sample code is running live at [http://bggapi.capi2.com.ar](http://bgg-json-api.capi2.com.ar/). 
 
 License
 ========
